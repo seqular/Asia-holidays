@@ -1,0 +1,57 @@
+body{	
+	background-color: #000;
+	color:#fff;
+	font-family: 'Tahoma',sans-serif;
+}
+
+#main{
+	background-image: url('../image/background.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
+	width:960px;
+	height:883px;
+}
+
+.logo{
+	float:left;
+	margin-left: 70px;
+}
+.contacts{
+	float:left;
+
+	margin-left: 420px;
+    margin-top: 90px;
+    font-size: 12px;
+}
+
+.clear{
+	clear:both;
+}
+
+.pict{
+	text-align:center;
+}
+
+.pict:nth-child(2){
+	margin:0 10px;
+}
+
+.row1>div, .row2>div{
+	float:left;
+}
+
+.title{
+	margin-bottom: 40px;
+}
+
+.middle{
+	width: 830px;
+	margin:0 auto;
+}
+
+.copyright{
+	text-align: center;
+    margin-top: 150px;
+    font-size: 12px;
+}
